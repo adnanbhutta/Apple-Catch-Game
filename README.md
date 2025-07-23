@@ -71,3 +71,20 @@ Apple-Catch-Game/
 tasm apple_catch.asm
 tlink apple_catch.obj
 apple_catch.exe
+Learning Outcomes
+Deep understanding of low-level programming
+
+Practice with stack operations, interrupts, and I/O control
+
+Applied knowledge of looping, conditionals, and memory layout
+
+Familiarity with real-mode segmentation, BIOS services, and VGA text mode
+
+👨‍💻 Developer
+Adnan Ali
+Student – BS Computer Science
+Fall 2025 – Department of Computer Science
+
+📜 License
+This project is for educational purposes only.
+You are free to fork or reference this code for learning and academic use.
